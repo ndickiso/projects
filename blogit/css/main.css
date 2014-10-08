@@ -1,0 +1,42 @@
+
+
+/* ==========================================================================
+   Author's custom styles
+   ========================================================================== */
+
+
+
+#blogit, #editBlogit{
+	margin: -25px 0 0 20px;
+	width: 200px;
+}
+
+#postText, #editText{
+	width: 600px;
+}
+
+#commentText{
+	width: 600px;
+}
+
+a.comment{
+	margin: 0 0 0 20px;
+}
+
+a{
+	cursor: pointer;
+}
+
+a.back{
+	font-size: 20pt;
+}
+
+
+
+
+
+
+
+
+
+

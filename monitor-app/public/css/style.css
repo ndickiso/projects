@@ -1,0 +1,51 @@
+*{
+	/* outline: 1px solid green; */
+}
+
+.alert{
+	color: rgba(220,50,50,.8);
+}
+
+.col-centered{
+    float: none;
+    margin: 0 auto;
+}    
+
+#tempLegend{
+	margin: 0 10px;
+	display:inline-block;
+	width:15px;
+	height:15px;
+	background-color:rgba(231,23,97,.5);
+}
+
+#lightLegend{
+	margin: 0 10px;
+	display:inline-block;
+	width:15px;
+	height:15px;
+	/* background-color:rgba(231,230,97,.5); */
+	background-color:rgba(184, 85, 93, 1)
+}
+
+#objmoveLegend{
+	margin: 0 10px;
+	display:inline-block;
+	width:15px;
+	height:15px;
+	background-color:rgba(231,23,97,.9);
+}
+
+#motionLegend{
+	margin: 0 10px;
+	display:inline-block;
+	width:15px;
+	height:15px;
+	background-color:rgba(231,230,97,.9);
+}
+
+#averages b{
+	padding: 0 3px;
+}
+
+
